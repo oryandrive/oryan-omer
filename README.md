@@ -1,16 +1,16 @@
 <h1 align="center">I'm Oryan Omer</h1>
 <h3 align="center">Software Engineer With ML and DevOps Skills</h3>
 
-- 🔭 I’m currently working at [Superwise.ai](https://superwise.ai/)
+- 🔭 I’m currently work at [Superwise.ai](https://superwise.ai/)
 
-- 📝 I regularly write articles on [https://medium.com/@oryan.omer]( Scalability, Web Frameworks, Testing)
+- 📝 I regularly write articles about [https://medium.com/@oryan.omer]( Scalability, Web Frameworks, Testing)
 
 - 💬 Ask me about **Python, MLOPS, ML Monitoring , Microservices**
 
 - 📫 How to reach me **oryanomer@gmail.com**
 
-- Check out my website on netlify: https://oryanomer.netlify.app/
-- ⚡ Hobbies **Wave Surfing and Snowboarding**
+- Visit my website on netlify: https://oryanomer.netlify.app/
+- ⚡ Hobbies **Wave surfing and Snowboarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
