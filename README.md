@@ -1,15 +1,7 @@
 <h1 align="center">I'm Oryan Omer</h1>
-<h3 align="center">Software Engineer With ML and DevOps Skills</h3>
+<h3 align="center">Principal Software Engineer</h3>
 
-- 🔭 I’m currently work at [Superwise.ai](https://superwise.ai/)
-
-- 📝 I regularly write articles about [https://medium.com/@oryan.omer]( Scalability, Web Frameworks, Testing)
-
-- 💬 Ask me about **Python, MLOPS, ML Monitoring , Microservices**
-
-- 📫 How to reach me **oryanomer@gmail.com**
-
-- Visit my website on netlify: https://oryanomer.netlify.app/
+Experienced Principal Software Engineer with expertise in machine learning, MLOps, and cloud security. 10 years of developing high-quality software solutions, leading teams, and architecting complex systems.   
 - ⚡ Hobbies **Wave surfing and Snowboarding**
 
 <h3 align="left">Connect with me:</h3>
